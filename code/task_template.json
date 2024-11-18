@@ -1,0 +1,6 @@
+{
+    "task_name": "Implement Feature X",
+    "task_description": "Develop and integrate Feature X into the existing system. The feature should allow users to do Y and Z.",
+    "required_skills": ["Python", "REST API"],
+    "additional_notes": "Please ensure the feature is scalable and includes unit tests."
+  }

@@ -1,0 +1,11 @@
+{
+  "task_name": "[Task Name]",
+  "task_description": "[Provide a detailed description of the task. Include the objectives, expected outcomes, and any relevant information that will help the employee understand the task fully.]",
+  "required_skills": [
+    "[Skill 1]",
+    "[Skill 2]",
+    "[Skill 3]",
+    "[Any other relevant skills]"
+  ],
+  "deadline": "[deadline]"
+}
